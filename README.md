@@ -1,3 +1,4 @@
 ## Implememting Neural Network Architectures from scratch
 
-Each architecture is implemented using only numpy. Refer to each directory for details 
+The following architectures are all implemented using Numpy.
+> Kindly refer to the respective directories for a detailed description.
