@@ -10,3 +10,5 @@ Given true weights of the network, the task was to train a network from scratch 
 - Trained a single layer CNN network with padding/strides/dilation
 - Computed L2 loss between feature map obtained from true weights and trained weights
 
+The dataset (CIFAR-10) can be downloaded from (https://www.cs.toronto.edu/~kriz/cifar.html)
+
